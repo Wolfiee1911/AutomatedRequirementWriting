@@ -1,30 +1,11 @@
 # AutomatedRequirementWriting
 
-![Team Dynamo Logo](logo.png)
+
 
 **Dynamo** is an AI-powered system designed to analyze textual and graphic inputs, extract key functional and non-functional requirements, and organize them into a standardized format. Built for the **Barclays Hack and Hire Hackathon**, this project leverages advanced natural language processing (NLP) and optical character recognition (OCR) to streamline the requirement engineering process for software development teams.
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Design Considerations](#design-considerations)
-- [Installation](#installation)
-  - [Prerequisites](#prerequisites)
-  - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-  - [Running the Application](#running-the-application)
-  - [Input Types](#input-types)
-  - [Export Options](#export-options)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Team](#team)
-
----
 
 ## Project Overview
 
